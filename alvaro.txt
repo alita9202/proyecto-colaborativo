@@ -1,0 +1,4 @@
+nombre, carrera y correo
+Alvaro Daniel Rocha Rocha
+Ing. Sistemas 
+alvaro.rocha@uab.edu.bo
